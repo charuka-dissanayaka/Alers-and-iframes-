@@ -1,5 +1,4 @@
 import { expect,test } from "@playwright/test";
-import { time } from "node:console";
 
 
 test('verify the alert functionality', async ({page}) =>{
